@@ -1,17 +1,17 @@
 <!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
 
-<h1 align="center">Hi <img src="https://github.com/mfoyedele/mfoyedele/blob/main/wave.gif" width="30px">, I'm Funso Oyedele</h1>
+<h1 align="center">Hi <img src="https://github.com/mfoyedele/mfoyedele/blob/main/wave.gif" width="30px">, I'm Tobi Adejare</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
 
 <table>
   <tr>
     <td>
-      <p>- 🔭 I’m currently working on <b>an Internet of Things platform</b></p>
+      <p>- 🔭 I’m currently working on <b>an Ecommerce Website</b></p>
       <p>- 🌱 I’m currently learning <b>Data Structures and Algorithms</b></p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
-      <p>- 📫 How to reach me: <b><a href=mailto:mfoyedele3@gmail.com alt=email>mfoyedele3@gmail.com</a></b></p>
-      <p>- ⚡ Fun fact: <b>Software Engineer at Tranter IT Infrastructure Services Limited (Tranter IT), Lagos.</b></p>
+      <p>- 📫 How to reach me: <b><a href=mailto:jesufemia2@gmail.com alt=email>jesufemia2@gmail.com</a></b></p>
+      <!-- <p>- ⚡ Fun fact: <b>Software Engineer at Tranter IT Infrastructure Services Limited (Tranter IT), Lagos.</b></p> -->
     </td>
     <td>
       <h3 align="left">Connect with me:</h3>
@@ -69,3 +69,4 @@
 -->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfoyedele" alt="mfoyedele" /></a> </p>-->
+
