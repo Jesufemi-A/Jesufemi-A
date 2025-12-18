@@ -39,8 +39,3 @@
   </tr>
 </table>
 
-<p align="center"> <a href="https://twitter.com/realfunso" target="blank"><img src="https://img.shields.io/twitter/follow/realfunso?logo=twitter&style=for-the-badge" alt="realfunso" /></a> </p>
-
-
-
-
