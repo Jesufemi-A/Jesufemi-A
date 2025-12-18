@@ -23,8 +23,8 @@
       </p> -->
       <h3 align="left">Languages and Tools:</h3>
       <p align="left"> 
-        <a href="https://dotnet.microsoft.com/en-us/languages/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="csharp" width="40" height="40"/> </a>
-        <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a>
+      
+      
         <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>        
@@ -40,5 +40,6 @@
 </table>
 
 <p align="center"> <a href="https://twitter.com/realfunso" target="blank"><img src="https://img.shields.io/twitter/follow/realfunso?logo=twitter&style=for-the-badge" alt="realfunso" /></a> </p>
+
 
 
